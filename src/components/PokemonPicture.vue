@@ -1,8 +1,14 @@
 <template>
   <h3>Pokemón picture</h3>
-      <!-- TODO: Pictures     -->
+   <!-- TODO: Pictures     -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" 
+  class="hidden-pokemon"
+  alt="pokemon">
 
-    <!-- TODO: Opciones -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" 
+  class="fade-in"
+  alt="pokemon">
+   <!-- TODO: Opciones -->
 </template>
 
 <script>
